@@ -5,7 +5,10 @@ const Title = () => {
     <div className="title">
       <h1>T O N L</h1>
       <h2>Diverse Imagery</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <p>
+        TONL seeks to transform the idea of stock photography by displaying
+        images of diverse people and their stories around the world.
+      </p>
     </div>
   );
 };
